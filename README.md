@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=374764&height=300&section=header&text=Kim%20Chan%20Sik&fontSize=90&fontColor=FFFFFF)
 
 <!-- contents -->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">🌏 Languages 🌏</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
@@ -27,6 +27,13 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
+</div>
+
+<br>
+
+<h3 align="center">🛠️ Tools 🛠️</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">&nbsp
+  
 </div>
