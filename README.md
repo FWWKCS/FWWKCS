@@ -40,3 +40,15 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">&nbsp
 </div>
+
+<br>
+
+<h3 align="center">🛠️ Contact 🛠</h3>
+<div>
+  <a href="mailto:ckstlr1607@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp
+  </a>
+  <a href="https://www.discord.com/users/751814674877775923">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">&nbsp
+  </a>
+</div>
