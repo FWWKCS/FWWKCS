@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <!-- contents -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white" />&nbsp
 </div>
