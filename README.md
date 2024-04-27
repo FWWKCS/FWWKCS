@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=374764&height=300&section=header&text=Kim%20Chan%20Sik&fontSize=90&fontColor=FFFFFF)
+
+<!-- contents -->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+</div>
