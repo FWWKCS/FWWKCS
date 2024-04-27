@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=374764&height=300&section=header&text=Kim%20Chan%20Sik&fontSize=90&fontColor=FFFFFF)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3580BB&height=300&section=header&text=Kim%20Chan%20Sik&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FWWKCS&descAlignY=51&descAlign=62"/>
+</p>
 
 <!-- contents -->
 <h3 align="center">🌏 Languages 🌏</h3>
@@ -46,9 +48,9 @@ Here are some ideas to get you started:
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
   <a href="mailto:ckstlr1607@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp
-  </a>
-  <a href="https://www.discord.com/users/751814674877775923" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp
+  <a href="https://www.discord.com/users/751814674877775923">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp
 </div>
