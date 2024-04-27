@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
-  <a href="mailto:ckstlr1607@gmail.com">
+  <a href="mailto:ckstlr1607@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp
   </a>
-  <a href="https://www.discord.com/users/751814674877775923">
+  <a href="https://www.discord.com/users/751814674877775923" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">&nbsp
   </a>
 </div>
