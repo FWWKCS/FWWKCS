@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#374764&height=300&section=header&text=Kim%20Chan%20Sik&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#374764&height=700&section=header&text=Kim%20Chan%20Sik&fontSize=90)
