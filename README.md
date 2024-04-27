@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">&nbsp
   
 </div>
