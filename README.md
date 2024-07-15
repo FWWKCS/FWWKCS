@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- title -->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=3580BB&height=300&section=header&text=Kim%20Chan%20Sik&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FWWKCS&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3580BB&height=300&section=header&text=FWWKCS&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <!-- contents -->
